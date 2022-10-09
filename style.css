@@ -1,0 +1,47 @@
+body{
+    background-color: hsl(212, 45%, 89%) ;
+}
+.attribution {
+    font-size: 11px; 
+    text-align: center;
+}
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+.main-content{
+    height: 500px;
+    width: 324px;
+    background-color: hsl(0, 0%, 100%) ;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 26px;
+}
+.content-img-QRcode{
+    width: 288px;
+    height: 289px;
+    padding: 18px;
+    border-radius: 34px;
+}
+.text-tile-card{
+    color: hsl(218, 44%, 22%);
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 0px;
+}
+p{
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+}
+.text-content{
+    width: 288px;
+    height: 165px;
+    padding-left: 18px;
+    padding-right: 18px;
+
+    text-align: center;
+}
